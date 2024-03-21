@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Directory Finder (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Directory Finder (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
